@@ -1,0 +1,6 @@
+{
+  "name": "Grimório das Sílabas",
+  "description": "Jogo educativo de cartas colecionáveis e duelo silábico para o 3º ano do Ensino Fundamental, alinhado à BNCC (EF03LP05 e EF03LP06).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
